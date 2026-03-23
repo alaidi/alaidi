@@ -28,7 +28,7 @@ My research spans cybersecurity, signal processing for next-generation networks,
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| PhD (in progress) | Universiti Tenaga Nasional (UNITEN), Malaysia | Current |
+| PhD (in progress) | Universiti Tenaga Nasional (UNITEN), Malaysia | 2024 |
 | M.Sc. Computer Science & Engineering | University of Bridgeport, CT, USA | 2014 |
 | B.Sc. Computer Science | Al-Mustansiriya University, Baghdad, Iraq | 2007 |
 
@@ -67,6 +67,7 @@ My research spans cybersecurity, signal processing for next-generation networks,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frameworks & Platforms**

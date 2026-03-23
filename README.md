@@ -20,7 +20,7 @@ College of Engineering, University of Wasit — Iraq
 
 I am an Assistant Professor in the Department of Electrical Engineering & Computer Science at the University of Wasit, Iraq, where I also serve as IT Manager for the College of Engineering and Director of the Computer & Information Center. My work sits at the intersection of applied research and academic instruction, with a focus on building secure, intelligent, and networked systems.
 
-My research spans cybersecurity, signal processing for next-generation networks, machine learning, and embedded systems. I am currently pursuing my PhD at Universiti Tenaga Nasional (UNITEN), Malaysia, extending prior graduate work completed at the University of Bridgeport, CT, USA.
+My research spans cybersecurity, signal processing for next-generation networks, machine learning, and embedded systems. I completed my PhD at Universiti Tenaga Nasional (UNITEN), Malaysia in 2024, building on prior graduate work completed at the University of Bridgeport, CT, USA.
 
 ---
 
@@ -28,7 +28,7 @@ My research spans cybersecurity, signal processing for next-generation networks,
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| PhD (in progress) | Universiti Tenaga Nasional (UNITEN), Malaysia | 2024 |
+| PhD | Universiti Tenaga Nasional (UNITEN), Malaysia | 2024 |
 | M.Sc. Computer Science & Engineering | University of Bridgeport, CT, USA | 2014 |
 | B.Sc. Computer Science | Al-Mustansiriya University, Baghdad, Iraq | 2007 |
 
@@ -68,11 +68,14 @@ My research spans cybersecurity, signal processing for next-generation networks,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frameworks & Platforms**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 

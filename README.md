@@ -93,19 +93,14 @@ My research spans cybersecurity, signal processing for next-generation networks,
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alaidi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaidi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alaidi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaidi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alaidi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alaidi&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 

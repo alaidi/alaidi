@@ -2,7 +2,7 @@
 
 # Abdul Hadi Mohammed Alaidi
 
-**Assistant Professor · IT Manager · Researcher**
+** Professor · IT Manager · Researcher**
 
 Department of Electrical Engineering & Computer Science
 College of Engineering, University of Wasit — Iraq
@@ -18,7 +18,7 @@ College of Engineering, University of Wasit — Iraq
 
 ## About
 
-I am an Assistant Professor in the Department of Electrical Engineering & Computer Science at the University of Wasit, Iraq, where I also serve as IT Manager for the College of Engineering and Director of the Computer & Information Center. My work sits at the intersection of applied research and academic instruction, with a focus on building secure, intelligent, and networked systems.
+I am a Professor in the Department of Electrical Engineering & Computer Science at the University of Wasit, Iraq, where I also serve as IT Manager for the College of Engineering and Director of the Computer & Information Center. My work sits at the intersection of applied research and academic instruction, with a focus on building secure, intelligent, and networked systems.
 
 My research spans cybersecurity, signal processing for next-generation networks, machine learning, and embedded systems. I completed my PhD at Universiti Tenaga Nasional (UNITEN), Malaysia in 2024, building on prior graduate work completed at the University of Bridgeport, CT, USA.
 

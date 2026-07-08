@@ -2,7 +2,7 @@
 
 # Abdul Hadi Mohammed Alaidi
 
-** Professor · IT Manager · Researcher**
+**Professor · IT Manager · Researcher**
 
 Department of Electrical Engineering & Computer Science
 College of Engineering, University of Wasit — Iraq

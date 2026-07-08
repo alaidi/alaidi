@@ -93,15 +93,10 @@ My research spans cybersecurity, signal processing for next-generation networks,
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alaidi)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alaidi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=alaidi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://streak-stats.demolab.com?user=alaidi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alaidi&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
